@@ -1,8 +1,8 @@
-package com.cognizant.medi.patient.serviceImpl;
+package com.medi.patient.serviceImpl;
 
 import org.springframework.stereotype.Service;
 
-import com.cognizant.medi.patient.service.PatientService;
+import com.medi.patient.service.PatientService;
 
 @Service
 public class PatientServiceImpl implements PatientService {

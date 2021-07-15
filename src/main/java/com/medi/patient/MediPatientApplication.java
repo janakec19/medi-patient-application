@@ -1,4 +1,4 @@
-package com.cognizant.medi.patient;
+package com.medi.patient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

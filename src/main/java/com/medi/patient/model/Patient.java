@@ -1,4 +1,4 @@
-package com.cognizant.medi.patient.model;
+package com.medi.patient.model;
 
 import java.util.Date;
 

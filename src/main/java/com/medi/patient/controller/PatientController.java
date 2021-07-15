@@ -1,4 +1,4 @@
-package com.cognizant.medi.patient.controller;
+package com.medi.patient.controller;
 
 import java.util.Optional;
 
@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import com.cognizant.medi.patient.model.Patient;
-import com.cognizant.medi.patient.repository.PatientRepository;
+import com.medi.patient.model.Patient;
+import com.medi.patient.repository.PatientRepository;
 
 @RequestMapping(value = "patients")
 @Controller
